@@ -1,16 +1,16 @@
 {
-  "name": "@uniswap/v2-sdk",
+  "name": "@yapeswap/yape-sdk",
   "license": "MIT",
-  "version": "3.0.0",
-  "description": "🛠 An SDK for building applications on top of Uniswap V2",
+  "version": "1.0.0-rc.0",
+  "description": "🛠 An SDK for building applications on top of Yapeswap",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-v2-sdk.git",
+  "repository": "https://github.com/yapeswap/yape-sdk.git",
   "keywords": [
-    "uniswap",
+    "yapeswap",
     "ethereum"
   ],
   "module": "dist/v2-sdk.esm.js",
